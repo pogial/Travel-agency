@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\core\\application\\usecases\\reservationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:core\\application\\usecases\\reservationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\core\\domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:core\\domain\\interfaces\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\infrastructure\\repositories\\emergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:infrastructure\\repositories\\emergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\core\\domain\\interfaces\\iemergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:core\\domain\\interfaces\\iemergencycontactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\core\\application\\interfaces\\ireservationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:core\\application\\interfaces\\ireservationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|d:\\z_educaci\u00F3n\\cursos\\cursoc#.net\\z_pruebatecnica\\pruebabackend\\api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB6BD71-2C81-45A1-88EB-F9B2FA0FF43D}|PruebaBackend.csproj|solutionrelative:api\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwIMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:12:34.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmergencyContactRepository.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Domain\\Interfaces\\IEmergencyContactRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Interfaces\\IEmergencyContactRepository.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Domain\\Interfaces\\IEmergencyContactRepository.cs",
+              "RelativeToolTip": "Core\\Domain\\Interfaces\\IEmergencyContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:52:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmergencyContactRepository.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Repositories\\EmergencyContactRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EmergencyContactRepository.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Repositories\\EmergencyContactRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EmergencyContactRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:51:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Domain\\Interfaces\\IReservationRepository.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Domain\\Interfaces\\IReservationRepository.cs",
+              "RelativeToolTip": "Core\\Domain\\Interfaces\\IReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:26:26.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:26:24.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReservationUseCase.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Application\\Interfaces\\IReservationUseCase.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\Interfaces\\IReservationUseCase.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Application\\Interfaces\\IReservationUseCase.cs",
+              "RelativeToolTip": "Core\\Application\\Interfaces\\IReservationUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:26:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationUseCase.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Application\\UseCases\\ReservationUseCase.cs",
+              "RelativeDocumentMoniker": "Core\\Application\\UseCases\\ReservationUseCase.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\Core\\Application\\UseCases\\ReservationUseCase.cs",
+              "RelativeToolTip": "Core\\Application\\UseCases\\ReservationUseCase.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwGoAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:26:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\API\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ReservationController.cs",
+              "ToolTip": "D:\\Z_Educaci\u00F3n\\Cursos\\cursoC#.Net\\Z_PruebaTecnica\\PruebaBackend\\API\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "API\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T00:25:58.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
